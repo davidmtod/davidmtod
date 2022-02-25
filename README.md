@@ -1,0 +1,4 @@
+- 👋 Hi, I’m David Tod
+- 👀 I’m interested in aviation, software development and cloud technologies
+- 🌱 I’m currently learning Python, Django, AWS, MariaDB
+- 💞️ I’m looking to collaborate on database applications
